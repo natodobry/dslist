@@ -1,7 +1,6 @@
 package com.natodobry.dslist.controllers;
 
 import com.natodobry.dslist.dto.GameMinDTO;
-import com.natodobry.dslist.entities.Game;
 import com.natodobry.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
